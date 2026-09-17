@@ -1,0 +1,6 @@
+{
+  "name": "The Vintage Marquee Islamabad",
+  "description": "Elegant celebrations and beautiful memories at Islamabad's premier luxury event venue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
